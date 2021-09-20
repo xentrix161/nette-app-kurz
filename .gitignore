@@ -1,0 +1,4 @@
+config/local.neon
+.idea
+vendor
+node_modules
